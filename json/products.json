@@ -1,0 +1,76 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"url": "#",
+			"title": "Подвеска",
+			"image": "product.png",
+			"brand": "Dolce & Gabanna",
+			"price": "175 000 ₽"
+		},
+		{
+			"id": 2,
+			"url": "#",
+			"title": "Подвеска",
+			"image": "product.png",
+			"brand": "Dolce & Gabanna",
+			"price": "175 000 ₽"
+		},
+		{
+			"id": 3,
+			"url": "#",
+			"title": "Подвеска",
+			"image": "product.png",
+			"brand": "Dolce & Gabanna",
+			"price": "175 000 ₽"
+		},
+		{
+			"id": 4,
+			"url": "#",
+			"title": "Подвеска",
+			"image": "product.png",
+			"brand": "Dolce & Gabanna",
+			"price": "175 000 ₽"
+		},
+		{
+			"id": 5,
+			"url": "#",
+			"title": "Ожерелье",
+			"image": "gallery/1.jpg",
+			"brand": "Dolce & Gabanna",
+			"price": "250 000 ₽"
+		},
+		{
+			"id": 6,
+			"url": "#",
+			"title": "Часы",
+			"image": "gallery/5.jpg",
+			"brand": "Dolce & Gabanna",
+			"price": "300 000 ₽"
+		},
+		{
+			"id": 7,
+			"url": "#",
+			"title": "Подвеска",
+			"image": "product.png",
+			"brand": "Dolce & Gabanna",
+			"price": "175 000 ₽"
+		},
+		{
+			"id": 8,
+			"url": "#",
+			"title": "Кольцо",
+			"image": "headerBG.png",
+			"brand": "Harry Winston",
+			"price": "225 000 ₽"
+		},
+		{
+			"id": 9,
+			"url": "#",
+			"title": "Кулон",
+			"image": "products/3.jpg",
+			"brand": "Buccellati",
+			"price": "200 000 ₽"
+		}
+	]
+}
